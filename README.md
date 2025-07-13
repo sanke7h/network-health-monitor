@@ -62,22 +62,21 @@ pip install pandas numpy scikit-learn python-arango dash networkx matplotlib
 ##  Start ArangoDB
 
 ```bash
-docker run -e ARANGO_ROOT_PASSWORD=rootpass -p 8529:8529 -v arangodata:/var/lib/arangodb3 arangodb
+docker run -e ARANGO_ROOT_PASSWORD=yourpassword -p 8529:8529 -v arangodata:/var/lib/arangodb3 arangodb
 ```
 
 Access the ArangoDB UI at: [http://localhost:8529](http://localhost:8529)
 
 - **Username**: `root`  
-- **Password**: `rootpass` (or your custom password)
+- **Password**: `yourpassword` (or your custom password)
 
 ---
 
 ##  Setup Database Collections
 
 In the Arango UI:
-
-1. Create **Document Collection**: `device_kpi`  
-2. Create **Edge Collection**: `cell_edges`
+ 
+1. Create **Edge Collection**: `cell_edges`
 
 Then populate the DB:
 

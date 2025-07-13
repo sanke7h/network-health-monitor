@@ -145,3 +145,16 @@ If a segment's score `< threshold`, it is marked as **failing**.
 
 ---
 
+#  License
+
+This project is licensed under the **MIT License**.
+
+---
+
+#  Contact
+
+For questions, suggestions, or collaboration:
+
+📧 **nssanketh@gmail.com**
+
+

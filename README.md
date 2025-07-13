@@ -72,7 +72,7 @@ Access the ArangoDB UI at: [http://localhost:8529](http://localhost:8529)
 
 ---
 
-## 🛠️ Setup Database Collections
+##  Setup Database Collections
 
 In the Arango UI:
 
@@ -143,9 +143,6 @@ threshold = mean - std_dev
 ```
 
 If a segment's score `< threshold`, it is marked as **failing**.
-
-✔️ **Predictions are already stored in ArangoDB**  
-🛠️ **Integration with dashboard is in progress**
 
 ---
 

@@ -1,0 +1,786 @@
+[
+  {
+    "_from": "traffic_data/1",
+    "_to": "traffic_data/34"
+  },
+  {
+    "_from": "traffic_data/1",
+    "_to": "traffic_data/13"
+  },
+  {
+    "_from": "traffic_data/1",
+    "_to": "traffic_data/24"
+  },
+  {
+    "_from": "traffic_data/2",
+    "_to": "traffic_data/4"
+  },
+  {
+    "_from": "traffic_data/2",
+    "_to": "traffic_data/42"
+  },
+  {
+    "_from": "traffic_data/2",
+    "_to": "traffic_data/44"
+  },
+  {
+    "_from": "traffic_data/2",
+    "_to": "traffic_data/8"
+  },
+  {
+    "_from": "traffic_data/3",
+    "_to": "traffic_data/20"
+  },
+  {
+    "_from": "traffic_data/3",
+    "_to": "traffic_data/40"
+  },
+  {
+    "_from": "traffic_data/3",
+    "_to": "traffic_data/7"
+  },
+  {
+    "_from": "traffic_data/3",
+    "_to": "traffic_data/45"
+  },
+  {
+    "_from": "traffic_data/4",
+    "_to": "traffic_data/48"
+  },
+  {
+    "_from": "traffic_data/4",
+    "_to": "traffic_data/10"
+  },
+  {
+    "_from": "traffic_data/4",
+    "_to": "traffic_data/34"
+  },
+  {
+    "_from": "traffic_data/4",
+    "_to": "traffic_data/44"
+  },
+  {
+    "_from": "traffic_data/5",
+    "_to": "traffic_data/27"
+  },
+  {
+    "_from": "traffic_data/5",
+    "_to": "traffic_data/37"
+  },
+  {
+    "_from": "traffic_data/5",
+    "_to": "traffic_data/2"
+  },
+  {
+    "_from": "traffic_data/5",
+    "_to": "traffic_data/43"
+  },
+  {
+    "_from": "traffic_data/6",
+    "_to": "traffic_data/22"
+  },
+  {
+    "_from": "traffic_data/6",
+    "_to": "traffic_data/33"
+  },
+  {
+    "_from": "traffic_data/6",
+    "_to": "traffic_data/47"
+  },
+  {
+    "_from": "traffic_data/7",
+    "_to": "traffic_data/5"
+  },
+  {
+    "_from": "traffic_data/7",
+    "_to": "traffic_data/46"
+  },
+  {
+    "_from": "traffic_data/7",
+    "_to": "traffic_data/45"
+  },
+  {
+    "_from": "traffic_data/7",
+    "_to": "traffic_data/36"
+  },
+  {
+    "_from": "traffic_data/8",
+    "_to": "traffic_data/15"
+  },
+  {
+    "_from": "traffic_data/8",
+    "_to": "traffic_data/40"
+  },
+  {
+    "_from": "traffic_data/8",
+    "_to": "traffic_data/23"
+  },
+  {
+    "_from": "traffic_data/8",
+    "_to": "traffic_data/42"
+  },
+  {
+    "_from": "traffic_data/9",
+    "_to": "traffic_data/15"
+  },
+  {
+    "_from": "traffic_data/9",
+    "_to": "traffic_data/4"
+  },
+  {
+    "_from": "traffic_data/9",
+    "_to": "traffic_data/43"
+  },
+  {
+    "_from": "traffic_data/9",
+    "_to": "traffic_data/33"
+  },
+  {
+    "_from": "traffic_data/9",
+    "_to": "traffic_data/30"
+  },
+  {
+    "_from": "traffic_data/10",
+    "_to": "traffic_data/4"
+  },
+  {
+    "_from": "traffic_data/10",
+    "_to": "traffic_data/24"
+  },
+  {
+    "_from": "traffic_data/10",
+    "_to": "traffic_data/1"
+  },
+  {
+    "_from": "traffic_data/10",
+    "_to": "traffic_data/12"
+  },
+  {
+    "_from": "traffic_data/10",
+    "_to": "traffic_data/20"
+  },
+  {
+    "_from": "traffic_data/11",
+    "_to": "traffic_data/46"
+  },
+  {
+    "_from": "traffic_data/11",
+    "_to": "traffic_data/20"
+  },
+  {
+    "_from": "traffic_data/11",
+    "_to": "traffic_data/28"
+  },
+  {
+    "_from": "traffic_data/11",
+    "_to": "traffic_data/21"
+  },
+  {
+    "_from": "traffic_data/11",
+    "_to": "traffic_data/36"
+  },
+  {
+    "_from": "traffic_data/12",
+    "_to": "traffic_data/32"
+  },
+  {
+    "_from": "traffic_data/12",
+    "_to": "traffic_data/31"
+  },
+  {
+    "_from": "traffic_data/12",
+    "_to": "traffic_data/45"
+  },
+  {
+    "_from": "traffic_data/13",
+    "_to": "traffic_data/7"
+  },
+  {
+    "_from": "traffic_data/13",
+    "_to": "traffic_data/33"
+  },
+  {
+    "_from": "traffic_data/13",
+    "_to": "traffic_data/23"
+  },
+  {
+    "_from": "traffic_data/13",
+    "_to": "traffic_data/20"
+  },
+  {
+    "_from": "traffic_data/13",
+    "_to": "traffic_data/43"
+  },
+  {
+    "_from": "traffic_data/14",
+    "_to": "traffic_data/37"
+  },
+  {
+    "_from": "traffic_data/14",
+    "_to": "traffic_data/16"
+  },
+  {
+    "_from": "traffic_data/14",
+    "_to": "traffic_data/3"
+  },
+  {
+    "_from": "traffic_data/14",
+    "_to": "traffic_data/22"
+  },
+  {
+    "_from": "traffic_data/15",
+    "_to": "traffic_data/14"
+  },
+  {
+    "_from": "traffic_data/15",
+    "_to": "traffic_data/8"
+  },
+  {
+    "_from": "traffic_data/15",
+    "_to": "traffic_data/34"
+  },
+  {
+    "_from": "traffic_data/16",
+    "_to": "traffic_data/7"
+  },
+  {
+    "_from": "traffic_data/16",
+    "_to": "traffic_data/30"
+  },
+  {
+    "_from": "traffic_data/16",
+    "_to": "traffic_data/43"
+  },
+  {
+    "_from": "traffic_data/16",
+    "_to": "traffic_data/47"
+  },
+  {
+    "_from": "traffic_data/16",
+    "_to": "traffic_data/2"
+  },
+  {
+    "_from": "traffic_data/17",
+    "_to": "traffic_data/2"
+  },
+  {
+    "_from": "traffic_data/17",
+    "_to": "traffic_data/25"
+  },
+  {
+    "_from": "traffic_data/17",
+    "_to": "traffic_data/16"
+  },
+  {
+    "_from": "traffic_data/17",
+    "_to": "traffic_data/6"
+  },
+  {
+    "_from": "traffic_data/17",
+    "_to": "traffic_data/39"
+  },
+  {
+    "_from": "traffic_data/18",
+    "_to": "traffic_data/33"
+  },
+  {
+    "_from": "traffic_data/18",
+    "_to": "traffic_data/43"
+  },
+  {
+    "_from": "traffic_data/18",
+    "_to": "traffic_data/12"
+  },
+  {
+    "_from": "traffic_data/18",
+    "_to": "traffic_data/2"
+  },
+  {
+    "_from": "traffic_data/18",
+    "_to": "traffic_data/5"
+  },
+  {
+    "_from": "traffic_data/19",
+    "_to": "traffic_data/9"
+  },
+  {
+    "_from": "traffic_data/19",
+    "_to": "traffic_data/29"
+  },
+  {
+    "_from": "traffic_data/19",
+    "_to": "traffic_data/31"
+  },
+  {
+    "_from": "traffic_data/19",
+    "_to": "traffic_data/27"
+  },
+  {
+    "_from": "traffic_data/19",
+    "_to": "traffic_data/50"
+  },
+  {
+    "_from": "traffic_data/20",
+    "_to": "traffic_data/36"
+  },
+  {
+    "_from": "traffic_data/20",
+    "_to": "traffic_data/33"
+  },
+  {
+    "_from": "traffic_data/20",
+    "_to": "traffic_data/3"
+  },
+  {
+    "_from": "traffic_data/21",
+    "_to": "traffic_data/43"
+  },
+  {
+    "_from": "traffic_data/21",
+    "_to": "traffic_data/15"
+  },
+  {
+    "_from": "traffic_data/21",
+    "_to": "traffic_data/39"
+  },
+  {
+    "_from": "traffic_data/21",
+    "_to": "traffic_data/25"
+  },
+  {
+    "_from": "traffic_data/22",
+    "_to": "traffic_data/14"
+  },
+  {
+    "_from": "traffic_data/22",
+    "_to": "traffic_data/42"
+  },
+  {
+    "_from": "traffic_data/22",
+    "_to": "traffic_data/48"
+  },
+  {
+    "_from": "traffic_data/22",
+    "_to": "traffic_data/33"
+  },
+  {
+    "_from": "traffic_data/22",
+    "_to": "traffic_data/18"
+  },
+  {
+    "_from": "traffic_data/23",
+    "_to": "traffic_data/45"
+  },
+  {
+    "_from": "traffic_data/23",
+    "_to": "traffic_data/31"
+  },
+  {
+    "_from": "traffic_data/23",
+    "_to": "traffic_data/29"
+  },
+  {
+    "_from": "traffic_data/23",
+    "_to": "traffic_data/8"
+  },
+  {
+    "_from": "traffic_data/24",
+    "_to": "traffic_data/22"
+  },
+  {
+    "_from": "traffic_data/24",
+    "_to": "traffic_data/7"
+  },
+  {
+    "_from": "traffic_data/24",
+    "_to": "traffic_data/43"
+  },
+  {
+    "_from": "traffic_data/24",
+    "_to": "traffic_data/47"
+  },
+  {
+    "_from": "traffic_data/24",
+    "_to": "traffic_data/49"
+  },
+  {
+    "_from": "traffic_data/25",
+    "_to": "traffic_data/33"
+  },
+  {
+    "_from": "traffic_data/25",
+    "_to": "traffic_data/5"
+  },
+  {
+    "_from": "traffic_data/25",
+    "_to": "traffic_data/11"
+  },
+  {
+    "_from": "traffic_data/26",
+    "_to": "traffic_data/45"
+  },
+  {
+    "_from": "traffic_data/26",
+    "_to": "traffic_data/35"
+  },
+  {
+    "_from": "traffic_data/26",
+    "_to": "traffic_data/22"
+  },
+  {
+    "_from": "traffic_data/26",
+    "_to": "traffic_data/24"
+  },
+  {
+    "_from": "traffic_data/26",
+    "_to": "traffic_data/46"
+  },
+  {
+    "_from": "traffic_data/27",
+    "_to": "traffic_data/45"
+  },
+  {
+    "_from": "traffic_data/27",
+    "_to": "traffic_data/14"
+  },
+  {
+    "_from": "traffic_data/27",
+    "_to": "traffic_data/13"
+  },
+  {
+    "_from": "traffic_data/27",
+    "_to": "traffic_data/19"
+  },
+  {
+    "_from": "traffic_data/28",
+    "_to": "traffic_data/20"
+  },
+  {
+    "_from": "traffic_data/28",
+    "_to": "traffic_data/37"
+  },
+  {
+    "_from": "traffic_data/28",
+    "_to": "traffic_data/19"
+  },
+  {
+    "_from": "traffic_data/29",
+    "_to": "traffic_data/19"
+  },
+  {
+    "_from": "traffic_data/29",
+    "_to": "traffic_data/15"
+  },
+  {
+    "_from": "traffic_data/29",
+    "_to": "traffic_data/26"
+  },
+  {
+    "_from": "traffic_data/30",
+    "_to": "traffic_data/19"
+  },
+  {
+    "_from": "traffic_data/30",
+    "_to": "traffic_data/11"
+  },
+  {
+    "_from": "traffic_data/30",
+    "_to": "traffic_data/7"
+  },
+  {
+    "_from": "traffic_data/30",
+    "_to": "traffic_data/4"
+  },
+  {
+    "_from": "traffic_data/31",
+    "_to": "traffic_data/23"
+  },
+  {
+    "_from": "traffic_data/31",
+    "_to": "traffic_data/38"
+  },
+  {
+    "_from": "traffic_data/31",
+    "_to": "traffic_data/32"
+  },
+  {
+    "_from": "traffic_data/32",
+    "_to": "traffic_data/47"
+  },
+  {
+    "_from": "traffic_data/32",
+    "_to": "traffic_data/28"
+  },
+  {
+    "_from": "traffic_data/32",
+    "_to": "traffic_data/45"
+  },
+  {
+    "_from": "traffic_data/33",
+    "_to": "traffic_data/5"
+  },
+  {
+    "_from": "traffic_data/33",
+    "_to": "traffic_data/2"
+  },
+  {
+    "_from": "traffic_data/33",
+    "_to": "traffic_data/28"
+  },
+  {
+    "_from": "traffic_data/34",
+    "_to": "traffic_data/31"
+  },
+  {
+    "_from": "traffic_data/34",
+    "_to": "traffic_data/48"
+  },
+  {
+    "_from": "traffic_data/34",
+    "_to": "traffic_data/20"
+  },
+  {
+    "_from": "traffic_data/35",
+    "_to": "traffic_data/14"
+  },
+  {
+    "_from": "traffic_data/35",
+    "_to": "traffic_data/4"
+  },
+  {
+    "_from": "traffic_data/35",
+    "_to": "traffic_data/24"
+  },
+  {
+    "_from": "traffic_data/35",
+    "_to": "traffic_data/30"
+  },
+  {
+    "_from": "traffic_data/36",
+    "_to": "traffic_data/31"
+  },
+  {
+    "_from": "traffic_data/36",
+    "_to": "traffic_data/19"
+  },
+  {
+    "_from": "traffic_data/36",
+    "_to": "traffic_data/46"
+  },
+  {
+    "_from": "traffic_data/36",
+    "_to": "traffic_data/14"
+  },
+  {
+    "_from": "traffic_data/37",
+    "_to": "traffic_data/20"
+  },
+  {
+    "_from": "traffic_data/37",
+    "_to": "traffic_data/25"
+  },
+  {
+    "_from": "traffic_data/37",
+    "_to": "traffic_data/30"
+  },
+  {
+    "_from": "traffic_data/37",
+    "_to": "traffic_data/4"
+  },
+  {
+    "_from": "traffic_data/38",
+    "_to": "traffic_data/1"
+  },
+  {
+    "_from": "traffic_data/38",
+    "_to": "traffic_data/44"
+  },
+  {
+    "_from": "traffic_data/38",
+    "_to": "traffic_data/12"
+  },
+  {
+    "_from": "traffic_data/39",
+    "_to": "traffic_data/12"
+  },
+  {
+    "_from": "traffic_data/39",
+    "_to": "traffic_data/31"
+  },
+  {
+    "_from": "traffic_data/39",
+    "_to": "traffic_data/35"
+  },
+  {
+    "_from": "traffic_data/40",
+    "_to": "traffic_data/30"
+  },
+  {
+    "_from": "traffic_data/40",
+    "_to": "traffic_data/8"
+  },
+  {
+    "_from": "traffic_data/40",
+    "_to": "traffic_data/42"
+  },
+  {
+    "_from": "traffic_data/41",
+    "_to": "traffic_data/4"
+  },
+  {
+    "_from": "traffic_data/41",
+    "_to": "traffic_data/36"
+  },
+  {
+    "_from": "traffic_data/41",
+    "_to": "traffic_data/50"
+  },
+  {
+    "_from": "traffic_data/41",
+    "_to": "traffic_data/37"
+  },
+  {
+    "_from": "traffic_data/41",
+    "_to": "traffic_data/47"
+  },
+  {
+    "_from": "traffic_data/42",
+    "_to": "traffic_data/8"
+  },
+  {
+    "_from": "traffic_data/42",
+    "_to": "traffic_data/11"
+  },
+  {
+    "_from": "traffic_data/42",
+    "_to": "traffic_data/28"
+  },
+  {
+    "_from": "traffic_data/42",
+    "_to": "traffic_data/10"
+  },
+  {
+    "_from": "traffic_data/43",
+    "_to": "traffic_data/28"
+  },
+  {
+    "_from": "traffic_data/43",
+    "_to": "traffic_data/27"
+  },
+  {
+    "_from": "traffic_data/43",
+    "_to": "traffic_data/36"
+  },
+  {
+    "_from": "traffic_data/43",
+    "_to": "traffic_data/5"
+  },
+  {
+    "_from": "traffic_data/44",
+    "_to": "traffic_data/40"
+  },
+  {
+    "_from": "traffic_data/44",
+    "_to": "traffic_data/29"
+  },
+  {
+    "_from": "traffic_data/44",
+    "_to": "traffic_data/6"
+  },
+  {
+    "_from": "traffic_data/44",
+    "_to": "traffic_data/34"
+  },
+  {
+    "_from": "traffic_data/44",
+    "_to": "traffic_data/4"
+  },
+  {
+    "_from": "traffic_data/45",
+    "_to": "traffic_data/19"
+  },
+  {
+    "_from": "traffic_data/45",
+    "_to": "traffic_data/29"
+  },
+  {
+    "_from": "traffic_data/45",
+    "_to": "traffic_data/10"
+  },
+  {
+    "_from": "traffic_data/45",
+    "_to": "traffic_data/39"
+  },
+  {
+    "_from": "traffic_data/46",
+    "_to": "traffic_data/15"
+  },
+  {
+    "_from": "traffic_data/46",
+    "_to": "traffic_data/45"
+  },
+  {
+    "_from": "traffic_data/46",
+    "_to": "traffic_data/40"
+  },
+  {
+    "_from": "traffic_data/46",
+    "_to": "traffic_data/42"
+  },
+  {
+    "_from": "traffic_data/47",
+    "_to": "traffic_data/17"
+  },
+  {
+    "_from": "traffic_data/47",
+    "_to": "traffic_data/18"
+  },
+  {
+    "_from": "traffic_data/47",
+    "_to": "traffic_data/35"
+  },
+  {
+    "_from": "traffic_data/47",
+    "_to": "traffic_data/1"
+  },
+  {
+    "_from": "traffic_data/48",
+    "_to": "traffic_data/26"
+  },
+  {
+    "_from": "traffic_data/48",
+    "_to": "traffic_data/9"
+  },
+  {
+    "_from": "traffic_data/49",
+    "_to": "traffic_data/5"
+  },
+  {
+    "_from": "traffic_data/49",
+    "_to": "traffic_data/40"
+  },
+  {
+    "_from": "traffic_data/49",
+    "_to": "traffic_data/19"
+  },
+  {
+    "_from": "traffic_data/50",
+    "_to": "traffic_data/3"
+  },
+  {
+    "_from": "traffic_data/50",
+    "_to": "traffic_data/38"
+  },
+  {
+    "_from": "traffic_data/50",
+    "_to": "traffic_data/28"
+  },
+  {
+    "_from": "traffic_data/50",
+    "_to": "traffic_data/21"
+  },
+  {
+    "_from": "traffic_data/50",
+    "_to": "traffic_data/18"
+  }
+]

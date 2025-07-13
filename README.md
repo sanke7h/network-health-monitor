@@ -1,4 +1,4 @@
-# 📶 Network Health Monitor: GNN-Based Congestion & Segment Failure Detection
+#  Network Health Monitor: GNN-Based Congestion & Segment Failure Detection
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -10,23 +10,23 @@
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
-- [📌 Project Overview](#project-overview)
-- [🧰 Prerequisites](#prerequisites)
-- [🚀 Getting Started](#getting-started)
+- [ Project Overview](#project-overview)
+- [ Prerequisites](#prerequisites)
+- [ Getting Started](#getting-started)
   - [Start ArangoDB](#start-arangodb)
   - [Setup Database Collections](#setup-database-collections)
   - [Run Congestion Prediction](#run-congestion-prediction)
   - [Launch Dashboard](#launch-dashboard)
-- [🧩 Components](#components)
-- [🔍 Segment Failure Prediction](#segment-failure-prediction)
-- [📄 License](#license)
-- [📬 Contact](#contact)
+- [ Components](#components)
+- [ Segment Failure Prediction](#segment-failure-prediction)
+- [ License](#license)
+- [ Contact](#contact)
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project simulates a network of interconnected devices, where each device logs key performance indicators (KPIs) such as:
 
@@ -46,7 +46,7 @@ A real-time dashboard displays:
 
 ---
 
-## 🧰 Prerequisites
+##  Prerequisites
 
 - Docker & Docker Compose  
 - Python 3.8+  
@@ -57,9 +57,9 @@ Install Python packages:
 pip install pandas numpy scikit-learn python-arango dash networkx matplotlib
 ```
 
-# 🚀 Getting Started
+#  Getting Started
 
-## ✅ Start ArangoDB
+##  Start ArangoDB
 
 ```bash
 docker run -e ARANGO_ROOT_PASSWORD=rootpass -p 8529:8529 -v arangodata:/var/lib/arangodb3 arangodb
@@ -87,7 +87,7 @@ python update_arango.py
 
 ---
 
-# 🤖 Run Congestion Prediction
+#  Run Congestion Prediction
 
 ```bash
 python congestion.py
@@ -102,7 +102,7 @@ This script will:
 
 ---
 
-# 📊 Launch Dashboard
+#  Launch Dashboard
 
 ```bash
 python dash_code.py
@@ -116,7 +116,7 @@ This opens a browser window displaying:
 
 ---
 
-# 🧩 Components
+#  Components
 
 | File              | Description                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
@@ -126,7 +126,7 @@ This opens a browser window displaying:
 
 ---
 
-# 🔍 Segment Failure Prediction
+#  Segment Failure Prediction
 
 A **segment** is a group of 3–4 interconnected devices.  
 Failure is predicted by:
@@ -149,13 +149,13 @@ If a segment's score `< threshold`, it is marked as **failing**.
 
 ---
 
-# 📄 License
+#  License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-# 📬 Contact
+#  Contact
 
 For questions, suggestions, or collaboration:
 
